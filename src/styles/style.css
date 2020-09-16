@@ -529,10 +529,4 @@ li.rc-time-picker-panel-select-option-disabled:hover {
   cursor: not-allowed;
 }
 
-button[disabled],
-button[disabled]:hover {
-  color: #aaa;
-  cursor: not-allowed;
-  background-color: #ebebeb;
-}
 /*# sourceMappingURL=style.css.map */
